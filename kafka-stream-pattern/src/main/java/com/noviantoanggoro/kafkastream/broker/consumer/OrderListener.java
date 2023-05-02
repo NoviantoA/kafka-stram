@@ -1,6 +1,6 @@
-package com.noviantoanggoro.kafkastream.pattern.broker.consumer;
+package com.noviantoanggoro.kafkastream.broker.consumer;
 
-import com.noviantoanggoro.kafkastream.pattern.broker.message.OrderMessage;
+import com.noviantoanggoro.kafkastream.broker.message.OrderMessage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.kafka.annotation.KafkaListener;

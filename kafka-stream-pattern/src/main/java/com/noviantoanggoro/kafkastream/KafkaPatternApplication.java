@@ -1,13 +1,13 @@
-package com.noviantoanggoro.kafkastream.pattern;
+package com.noviantoanggoro.kafkastream;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KafkaStreamPatternApplication {
+public class KafkaPatternApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KafkaStreamPatternApplication.class, args);
+		SpringApplication.run(KafkaPatternApplication.class, args);
 	}
 
 }

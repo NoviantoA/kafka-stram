@@ -1,4 +1,4 @@
-package com.noviantoanggoro.kafkastream.pattern.util;
+package com.noviantoanggoro.kafkastream.util;
 
 import java.io.IOException;
 import java.time.LocalDateTime;
